@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ForestFire", "ForestFire\ForestFire.vcxproj", "{30A92706-AF84-4B61-A8AA-1411A1E121A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A92706-AF84-4B61-A8AA-1411A1E121A2}.Debug|x64.ActiveCfg = Debug|x64
+		{30A92706-AF84-4B61-A8AA-1411A1E121A2}.Debug|x64.Build.0 = Debug|x64
+		{30A92706-AF84-4B61-A8AA-1411A1E121A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{30A92706-AF84-4B61-A8AA-1411A1E121A2}.Debug|x86.Build.0 = Debug|Win32
+		{30A92706-AF84-4B61-A8AA-1411A1E121A2}.Release|x64.ActiveCfg = Release|x64
+		{30A92706-AF84-4B61-A8AA-1411A1E121A2}.Release|x64.Build.0 = Release|x64
+		{30A92706-AF84-4B61-A8AA-1411A1E121A2}.Release|x86.ActiveCfg = Release|Win32
+		{30A92706-AF84-4B61-A8AA-1411A1E121A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74C7ED6F-8E31-4186-92D7-61BB31A0A252}
+	EndGlobalSection
+EndGlobal
